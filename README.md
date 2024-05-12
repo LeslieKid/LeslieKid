@@ -22,4 +22,4 @@ and I am a passion-driven student who dreams of changing things.
   - A simple LSM (Log-Structured Merge) tree [mini-lsm](https://github.com/LeslieKid/mini-lsm).
   - ...
 - 🔭 I'm also highly interested in **Neural Network** and **Web Application** now.
-
+  - Reading and completing the [udlbook](https://github.com/LeslieKid/Understanding-DeepLearning).
