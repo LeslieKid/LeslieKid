@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 and I am a passion-driven student who dreams of changing things.
 
-- 🌱 I'm currently working on 
-  - RCU (Read-Copy Update) mechanism for [asterinas](https://github.com/asterinas/asterinas).
-  - A simple LSM (Log-Structured Merge) tree [mini-lsm](https://github.com/LeslieKid/mini-lsm).
-  - ...
-- 🔭 I'm also highly interested in **Neural Network** and **Web Application** now.
-  - Reading and completing the [udlbook](https://github.com/LeslieKid/Understanding-DeepLearning).
+- 🔭 I’m currently working on
+  - Compaction offloading for [Apache HoraeDB](https://github.com/apache/horaedb)
+  - Algorithm with RAG for [ZTE Competition](https://challenge-zte.zhaopin.com/)
+- 🌱 I’m currently learning **Distributed System** and **Deep learning** .
