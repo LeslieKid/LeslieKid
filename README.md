@@ -20,4 +20,5 @@ and I am a passion-driven student who dreams of changing things.
 - 🔭 I’m currently working on
   - Compaction offloading for [Apache HoraeDB](https://github.com/apache/horaedb)
   - Algorithm with RAG for [ZTE Competition](https://challenge-zte.zhaopin.com/)
-- 🌱 I’m currently learning **Distributed System** and **Deep learning** .
+  - MIT 6.5840 Spring 2024
+- 🌱 I’m currently learning **Distributed System** and **Deep Learning** .
