@@ -1,4 +1,4 @@
-### Hi there, I am Leslie (a.k.a 苏逸钒) 👋
+### Hi there, I am Leslie 👋
 
 <!--
 **LeslieKid/LeslieKid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
