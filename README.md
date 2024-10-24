@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 and I am a passion-driven student who dreams of changing things.
 
 - 🔭 I’m currently working on
-  - [Compaction offloading for Apache HoraeDB](https://github.com/apache/horaedb/issues/1545)
-  - MIT 6.5840 Spring 2024
+  - [Apache Datafusion](https://github.com/apache/datafusion)
+  - [Apache HoraeDB](https://github.com/apache/horaedb)
 - 🌱 I’m currently learning **Distributed System** and **Deep Learning** .
 - 📫 How to reach me: 8208220105@csu.edu.cn
 
